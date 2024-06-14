@@ -1,0 +1,11 @@
+INSERT INTO Produk (ID_Produk, Nama_Produk, Harga) VALUES
+
+(301, 'Kemeja', 100000.00),
+
+(302, 'Celana', 150000.00),
+
+(303, 'Jaket', 200000.00),
+
+(304, 'Topi', 50000.00),
+
+(305, 'Sepatu', 250000.00);
